@@ -20,11 +20,11 @@ Enjoy! <br>
 <h2>Using command prompt</h2>
 <h3>Downloading source code </h3>
 Open your command prompt and enter the folowing code without the " letters <br>
-"" <br>
+"https://github.com/Daniel908009/Kivy-Stopwatch.git" <br>
 This code adress of the site can also be found if you click the code button inside the github repository UI <br>
 If you dont have git than first enter the folowing command: sudo apt install git <br>
 Now open a console and enter the folowing code: pip install -r /path/to/requirements.txt <br>
 *Replace the /path/to/requirements.txt with the actual path. <br>
 Enjoy! <br>
 <h2>Using Pypi</h2>
-simply open your command prompt and enter this command: pip install <br>
+simply open your command prompt and enter this command: pip install Kivy_Stopwatch_package<br>
