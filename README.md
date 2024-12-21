@@ -29,4 +29,5 @@ Now open a console and enter the folowing code: pip install -r /path/to/requirem
 *Replace the /path/to/requirements.txt with the actual path. <br>
 Enjoy! <br>
 <h2>Using Pypi</h2>
-simply open your command prompt and enter this command: pip install Kivy_Stopwatch_package<br>
+simply open your command prompt and enter this command: pip install Kivy-Stopwatch-package<br>
+and the run it using this command: Kivy_Stopwatch_package
